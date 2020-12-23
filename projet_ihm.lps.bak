@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="14">
+      <Unit0>
+        <Filename Value="projet_ihm.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="174"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="u_gabarit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="f_gabarit"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <TopLine Value="66"/>
+        <CursorPos X="10" Y="80"/>
+        <UsageCount Value="174"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="u_feuille_style.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="6" Y="102"/>
+        <UsageCount Value="174"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="u_select_inscription.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="f_select_inscription"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="62"/>
+        <CursorPos X="62" Y="73"/>
+        <UsageCount Value="174"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="u_list_inscription.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="f_list_inscription"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="3"/>
+        <CursorPos X="14" Y="69"/>
+        <UsageCount Value="172"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="u_detail_inscription.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="f_detail_inscription"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="238"/>
+        <CursorPos X="24" Y="262"/>
+        <UsageCount Value="171"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="u_releve_list.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="f_releve_list"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="16"/>
+        <CursorPos X="21" Y="41"/>
+        <UsageCount Value="158"/>
+        <Loaded Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="u_modele.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="113"/>
+        <CursorPos X="42" Y="63"/>
+        <UsageCount Value="143"/>
+        <Loaded Value="True"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="u_loaddataset.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="286"/>
+        <CursorPos Y="300"/>
+        <UsageCount Value="71"/>
+        <Loaded Value="True"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="u_detail_inscription.lfm"/>
+        <ComponentName Value="f_detail_inscription"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="7"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="C:\Lazarus\components\ZEOSDBO-7.1.4-stable\src\component\ZStoredProcedure.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="301"/>
+        <CursorPos Y="315"/>
+        <UsageCount Value="7"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="C:\Lazarus\lcl\stdctrls.pp"/>
+        <UnitName Value="StdCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="755"/>
+        <CursorPos X="15" Y="768"/>
+        <UsageCount Value="8"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="u_liste.pas"/>
+        <ComponentName Value="f_liste"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="44"/>
+        <CursorPos X="4" Y="138"/>
+        <UsageCount Value="36"/>
+        <Loaded Value="True"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="C:\Lazarus\components\ZEOSDBO-7.1.4-stable\src\dbc\ZDbcMySqlUtils.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="420"/>
+        <CursorPos Y="433"/>
+        <UsageCount Value="6"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit13>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="u_detail_inscription.pas"/>
+        <Caret Line="247" Column="9" TopLine="223"/>
+      </Position1>
+      <Position2>
+        <Filename Value="u_detail_inscription.pas"/>
+        <Caret Line="190" Column="50" TopLine="175"/>
+      </Position2>
+      <Position3>
+        <Filename Value="u_detail_inscription.pas"/>
+        <Caret Line="272" Column="35" TopLine="250"/>
+      </Position3>
+      <Position4>
+        <Filename Value="u_detail_inscription.pas"/>
+        <Caret Line="376" Column="33" TopLine="365"/>
+      </Position4>
+      <Position5>
+        <Filename Value="u_detail_inscription.pas"/>
+        <Caret Line="387" Column="151" TopLine="373"/>
+      </Position5>
+      <Position6>
+        <Filename Value="u_detail_inscription.pas"/>
+        <Caret Line="389" Column="3" TopLine="366"/>
+      </Position6>
+      <Position7>
+        <Filename Value="u_detail_inscription.pas"/>
+        <Caret Line="386" Column="86" TopLine="373"/>
+      </Position7>
+      <Position8>
+        <Filename Value="u_detail_inscription.pas"/>
+        <Caret Line="391" Column="110" TopLine="371"/>
+      </Position8>
+      <Position9>
+        <Filename Value="u_detail_inscription.pas"/>
+        <Caret Line="386" Column="85" TopLine="372"/>
+      </Position9>
+      <Position10>
+        <Filename Value="u_detail_inscription.pas"/>
+        <Caret Line="390" Column="9" TopLine="372"/>
+      </Position10>
+      <Position11>
+        <Filename Value="u_detail_inscription.pas"/>
+        <Caret Line="396" Column="4" TopLine="377"/>
+      </Position11>
+      <Position12>
+        <Filename Value="u_detail_inscription.pas"/>
+        <Caret Line="390" Column="8" TopLine="322"/>
+      </Position12>
+      <Position13>
+        <Filename Value="u_detail_inscription.pas"/>
+        <Caret Line="252" Column="26" TopLine="236"/>
+      </Position13>
+      <Position14>
+        <Filename Value="u_detail_inscription.pas"/>
+        <Caret Line="272" Column="10" TopLine="257"/>
+      </Position14>
+      <Position15>
+        <Filename Value="u_detail_inscription.pas"/>
+        <Caret Line="268" Column="41" TopLine="254"/>
+      </Position15>
+      <Position16>
+        <Filename Value="u_detail_inscription.pas"/>
+        <Caret Line="270" Column="6" TopLine="255"/>
+      </Position16>
+      <Position17>
+        <Filename Value="u_detail_inscription.pas"/>
+        <Caret Line="256" Column="29" TopLine="251"/>
+      </Position17>
+      <Position18>
+        <Filename Value="u_detail_inscription.pas"/>
+        <Caret Line="272" Column="42" TopLine="252"/>
+      </Position18>
+      <Position19>
+        <Filename Value="u_modele.pas"/>
+        <Caret Line="38" Column="55" TopLine="29"/>
+      </Position19>
+      <Position20>
+        <Filename Value="u_modele.pas"/>
+        <Caret Line="75" Column="62" TopLine="62"/>
+      </Position20>
+      <Position21>
+        <Filename Value="u_detail_inscription.pas"/>
+        <Caret Line="256" Column="21" TopLine="252"/>
+      </Position21>
+      <Position22>
+        <Filename Value="u_detail_inscription.pas"/>
+        <Caret Line="89" Column="15" TopLine="75"/>
+      </Position22>
+      <Position23>
+        <Filename Value="u_detail_inscription.pas"/>
+        <Caret Line="406" Column="52" TopLine="392"/>
+      </Position23>
+      <Position24>
+        <Filename Value="u_detail_inscription.pas"/>
+        <Caret Line="401" Column="5" TopLine="392"/>
+      </Position24>
+      <Position25>
+        <Filename Value="u_modele.pas"/>
+        <Caret Line="64" Column="34" TopLine="51"/>
+      </Position25>
+      <Position26>
+        <Filename Value="u_detail_inscription.pas"/>
+        <Caret Line="406" Column="40" TopLine="391"/>
+      </Position26>
+      <Position27>
+        <Filename Value="u_detail_inscription.pas"/>
+        <Caret Line="405" Column="47" TopLine="385"/>
+      </Position27>
+      <Position28>
+        <Filename Value="u_detail_inscription.pas"/>
+        <Caret Line="273" Column="6" TopLine="251"/>
+      </Position28>
+      <Position29>
+        <Filename Value="u_detail_inscription.pas"/>
+        <Caret Line="262" Column="24" TopLine="241"/>
+      </Position29>
+      <Position30>
+        <Filename Value="u_gabarit.pas"/>
+        <Caret Line="120" TopLine="95"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

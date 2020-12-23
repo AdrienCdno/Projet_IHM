@@ -1,0 +1,106 @@
+inherited f_list_inscription: Tf_list_inscription
+  Left = 406
+  Height = 718
+  Top = 138
+  Width = 920
+  Caption = 'f_list_inscription'
+  ClientHeight = 718
+  ClientWidth = 920
+  inherited pnl_titre: TPanel
+    Width = 920
+    Caption = 'Liste des inscrits'
+  end
+  inherited pnl_btn: TPanel
+    Top = 684
+    Width = 920
+    ClientWidth = 920
+    inherited pnl_btn_ligne: TPanel
+      Width = 521
+      ClientWidth = 521
+      inherited btn_line_detail: TSpeedButton
+        Left = 359
+        OnClick = btn_line_detailClick
+      end
+      inherited btn_line_add: TSpeedButton
+        Left = 400
+        OnClick = btn_line_addClick
+      end
+      inherited btn_line_delete: TSpeedButton
+        Left = 479
+        OnClick = btn_line_deleteClick
+      end
+      inherited btn_line_edit: TSpeedButton
+        Left = 439
+        OnClick = btn_line_editClick
+      end
+      object SpinEdit1: TSpinEdit[4]
+        Left = 64
+        Height = 23
+        Top = 5
+        Width = 41
+        MaxValue = 50
+        MinValue = 2
+        OnChange = SpinEdit1Change
+        TabOrder = 0
+        Value = 20
+      end
+      object lbl_spinedit: TLabel[5]
+        Left = 112
+        Height = 15
+        Top = 8
+        Width = 62
+        Caption = 'lignes/page'
+        ParentColor = False
+      end
+    end
+  end
+  inherited pnl_affi: TPanel
+    Height = 650
+    Width = 920
+    ClientHeight = 650
+    ClientWidth = 920
+    inherited sg_liste: TStringGrid
+      Height = 650
+      Width = 920
+      Columns = <      
+        item
+          PickList.Strings = (          )
+          Title.Caption = 'n°'
+          Width = 50
+        end      
+        item
+          PickList.Strings = (          )
+          Title.Caption = ''
+          Width = 50
+        end      
+        item
+          PickList.Strings = (          )
+          Title.Caption = 'Identité'
+          Width = 200
+        end      
+        item
+          PickList.Strings = (          )
+          Title.Caption = 'Commune domicile'
+          Width = 200
+        end      
+        item
+          PickList.Strings = (          )
+          Title.Caption = 'Filière'
+          Width = 100
+        end      
+        item
+          PickList.Strings = (          )
+          Title.Caption = ''
+          Width = 100
+        end>
+      ColWidths = (
+        50
+        50
+        200
+        200
+        100
+        100
+      )
+    end
+  end
+end
